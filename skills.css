@@ -1,0 +1,14 @@
+
+.gallery{
+    margin:5px;
+    float:left;
+    width:300px;
+    display:block;
+    padding:8px;
+    gap:300px;
+}
+.desc{
+    padding:5px;
+    color:black;
+    text-align:center;
+}

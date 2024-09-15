@@ -1,0 +1,34 @@
+
+.container{
+    margin-left:1000px;
+    display:flex;
+    align-items:center;
+    height:90vth;
+}
+.container .right{
+    margin-left:120px;
+}
+.gallery{
+    margin:5px;
+    border:1px solid black;
+    float:left;
+    width:200px;
+    gap:300px;
+    display:block;
+    padding:8px;
+
+}
+.desc{
+    padding:10px;
+    text-align:center;
+    color:black;
+}
+div.p{
+    display:flex;
+    align-items:center;
+    height:90vth;
+}
+pre{
+    font-size:20px;
+    margin-left:50px;
+}
