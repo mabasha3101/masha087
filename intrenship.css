@@ -6,6 +6,15 @@ pre{
     font-size:20px;
 }
 img{
-    margin-left:500px;
+    margin-left:300px;
     border:3px solid rgb(16, 165, 95);
+    float:none;
+    display:flex;
+    text-items:center;
+    height:10vth;
 }
+div{
+    margin-left:200px;
+    font-size:30px;
+}
+
