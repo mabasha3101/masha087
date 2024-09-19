@@ -19,6 +19,7 @@ li a{
     color:white;
     text-decoration:none;
     margin-left:20px;
+    font-size:20px;
 }
 li a:hover{
     color:deeppink;
@@ -58,4 +59,14 @@ img{
 }
 a:hover{
     color:deeppink;
+}
+button:hover{
+    color:white;
+    background-color:deeppink ;
+}
+button{
+    font-size: 20px;
+}
+b{
+    font-size: 25px;
 }
