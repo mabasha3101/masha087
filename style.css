@@ -1,17 +1,17 @@
 body{
     background-color:rgba(73, 5, 73, 0.745);
+    padding:10px;
 }
 li{
     float: right;
 }
-ul{
-    list-style-type: none;
+.new {
     overflow:hidden;
-    margin:0;
-    padding:0;
-    border-bottom:1px solid red;
-    margin-right:120px;
-    margin-left:120px;
+    position:fixed;
+   margin-left:800px; 
+}
+.btn{
+    margin-left:10px;
 }
 li a{
     display:block;
@@ -51,8 +51,6 @@ img{
 }
 .a{
     color:white;
-    
-    
     margin-left:400px;
     font-weight:300;
     font-size: 30px;
@@ -69,4 +67,172 @@ button{
 }
 b{
     font-size: 25px;
+}
+.intrenship body{
+    background-color:rgba(73, 5, 73, 0.745);
+}
+.intrenship p{
+    font-size:30px;
+    color:white;
+}
+.intrenship pre{
+    font-size:25px;
+    color:white;
+}
+.intrenship img{
+    margin-left:300px;
+    border:3px solid rgb(16, 165, 95);
+    float:none;
+    display:flex;
+    text-align:center;
+    height:10vth;
+}
+.intrenship div{
+    margin-left:200px;
+    font-size:30px;
+}
+.intrenship h1{
+    color:white;
+    margin-left: 400px;;
+}
+.intrenship button:hover{
+    background-color:deeppink;
+    font-size:20px;
+}
+.intrenship button{
+    font-size:20px;
+}
+.social body{
+    background-color:rgba(73, 5, 73, 0.745);
+}
+.social .container{
+    margin-left:1000px;
+    display:flex;
+    align-items:center;
+    height:90vth;
+}
+.social .container .right{
+    margin-left:120px;
+}
+.social .gallery{
+    margin:10px;
+    float:left;
+    width:200px;
+    gap:300px;
+    padding:0;
+
+}
+.social .desc{
+    padding:10px;
+    text-align:center;
+    color:white;
+
+}
+.social div.p{
+    display:flex;
+    align-items:center;
+    height:90vth;
+    color:white;
+}
+.social pre{
+    font-size:20px;
+    margin-left:50px;
+    color:white;
+}
+.social h1{
+    color:white;
+    margin-left: 400px;;
+}
+.social h3{
+    font-family:'Times New Roman', Times, serif;
+    color:white;
+    margin-left: 50px;
+    
+}
+.skills body{
+    background-color:rgba(73, 5, 73, 0.745);
+}
+.skills .galy{
+    margin:5px;
+    float:left;
+    width:300px;
+    display:block;
+    padding:8px;
+    gap:300px;
+}
+.skills h1{
+    color:white;
+    margin-left: 400px;;
+}
+.skills pre{
+    color:white;
+    font-size:25px;
+}
+.contact body{
+    background-color:rgba(73, 5, 73, 0.745);
+}
+.contact p{
+    font-size:30px;
+    color:white;
+}
+.contact pre{
+    font-size:25px;
+    color:white;
+}
+.contact img{
+    margin-left:300px;
+}
+.contact h1{
+    color:white;
+    margin-left: 400px;
+}
+.contact h3{
+    color:white;
+    font-size:25px;  
+}
+.post p{
+    font-size:25px;
+    margin-left: 100px;
+}
+.post li{
+    float:left;
+    margin-left:100px;
+}
+.post button{
+    font-size:20px;
+}
+.certificate h2{
+    color:white;
+    margin-right: 1400px;
+}
+.post p{
+  ist-style-type:disc;
+}
+.img{
+    float:right;
+    margin-right: 800px;;
+}
+.masha p{
+    font-size:20px;
+}
+.masha a{
+    margin-left:150px;
+}
+.beta p{
+    font-size:20px;
+}
+.beta a{
+    margin-left:150px;
+}
+.mass p{
+    font-size:20px;
+}
+.mass a{
+    margin-left:150px;
+}
+.vois p{
+    font-size:20px;
+}
+.vois a{
+    margin-left:150px;
 }
